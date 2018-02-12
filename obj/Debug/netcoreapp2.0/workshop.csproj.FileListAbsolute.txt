@@ -1,0 +1,10 @@
+/Users/dzmtrmartavoi/Documents/workshop/bin/Debug/netcoreapp2.0/workshop.deps.json
+/Users/dzmtrmartavoi/Documents/workshop/bin/Debug/netcoreapp2.0/workshop.runtimeconfig.json
+/Users/dzmtrmartavoi/Documents/workshop/bin/Debug/netcoreapp2.0/workshop.runtimeconfig.dev.json
+/Users/dzmtrmartavoi/Documents/workshop/bin/Debug/netcoreapp2.0/workshop.dll
+/Users/dzmtrmartavoi/Documents/workshop/bin/Debug/netcoreapp2.0/workshop.pdb
+/Users/dzmtrmartavoi/Documents/workshop/obj/Debug/netcoreapp2.0/workshop.csproj.CoreCompileInputs.cache
+/Users/dzmtrmartavoi/Documents/workshop/obj/Debug/netcoreapp2.0/workshop.AssemblyInfoInputs.cache
+/Users/dzmtrmartavoi/Documents/workshop/obj/Debug/netcoreapp2.0/workshop.AssemblyInfo.cs
+/Users/dzmtrmartavoi/Documents/workshop/obj/Debug/netcoreapp2.0/workshop.dll
+/Users/dzmtrmartavoi/Documents/workshop/obj/Debug/netcoreapp2.0/workshop.pdb
